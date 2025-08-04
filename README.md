@@ -1,11 +1,17 @@
-# Olá 👋, Eu sou o Diego Honório
+# Olá 👋, eu sou o Diego Honório
 💻 Desenvolvedor iniciante focado em Python e tecnologias back-end. Buscando constantemente evoluir em projetos práticos e colaborativos.
 
-- 🌱 Atualemnte estudo na Anhembi Morumbi e Hashtag Treinamentos.
-- 🌱 Estudando sobre Python e seus frameworks
-- 👨‍💻 Todos os meus projetos estão disponíveis em: https://github.com/honoriio?tab=repositories
-- 💬 Pergunte-me sobre Python.
-- 📫 Como entrar em contato comigo: diegohonoriiio@gmail.com
+🌱 Atualmente estudo na Anhembi Morumbi e Hashtag Treinamentos.
+
+🌱 Estudando Python e seus frameworks.
+
+👨‍💻 Todos os meus projetos estão disponíveis em: https://github.com/honoriio?tab=repositories
+
+💬 Pergunte-me sobre Python.
+
+📫 Como entrar em contato comigo: diegohonoriiio@gmail.com
+
+
 
 ##
  <h3 align="left">Linguagens e ferramentas</h3>
