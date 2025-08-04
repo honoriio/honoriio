@@ -11,7 +11,19 @@
 
 📫 Como entrar em contato comigo: diegohonoriiio@gmail.com
 
+## 🚀 Projetos em Destaque
 
+### 🔐 Walleto – Gerenciador de Gastos Pessoais (Projeto em andamento.)
+
+**Descrição:** Projeto pessoal para controle financeiro usando Python, SQLite e interface em terminal.  
+Funciona com sistema de cadastro de gastos, categorias, edição e relatórios.
+##
+**Tecnologias utilizadas:**
+- Python 🐍
+- SQLite 🗃️
+- VS Code 💻
+
+🔗 [Acessar repositório](https://github.com/honoriio/walleto)
 
 ##
  <h3 align="left">Linguagens e ferramentas</h3>
