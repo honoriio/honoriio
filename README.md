@@ -2,7 +2,7 @@
 💻 Desenvolvedor iniciante focado em Python e tecnologias back-end. Buscando constantemente evoluir em projetos práticos e colaborativos.
 
 - 🌱 Atualemnte estudo na Anhembi Morumbi e Hashtag Treinamentos.
-- 🌱 Estudando sobre Python e seus framework's
+- 🌱 Estudando sobre Python e seus frameworks
 - 👨‍💻 Todos os meus projetos estão disponíveis em: https://github.com/honoriio?tab=repositories
 - 💬 Pergunte-me sobre Python.
 - 📫 Como entrar em contato comigo: diegohonoriiio@gmail.com
