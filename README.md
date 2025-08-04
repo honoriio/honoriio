@@ -42,6 +42,3 @@
 
 
 
-![Snake animation](https://github.com/honoriio/honoriio/blob/output/github-contribution-grid-snake.svg)
-
-
