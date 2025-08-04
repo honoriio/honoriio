@@ -40,3 +40,8 @@
   <img src="https://streak-stats.demolab.com/?user=honoriio&theme=radical&fire=FF6C6C&ring=F7B267" alt="GitHub Streak"/>
 </p>
 
+
+
+![Snake animation](https://github.com/honoriio/honoriio/blob/output/github-contribution-grid-snake.svg)
+
+
