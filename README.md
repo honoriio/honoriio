@@ -23,7 +23,7 @@ Funciona com sistema de cadastro de gastos, categorias, edição e relatórios.
 - SQLite 🗃️
 - VS Code 💻
 
-🔗 [Acessar repositório](https://github.com/honoriio/walleto)
+🔗 [Acessar repositório](https://github.com/honoriio/walleto-2.0)
 
 ### Linguagens e ferramentas
 <p align="left">
