@@ -77,5 +77,5 @@ Experiência anterior com tecnologia embarcada em máquinas agrícolas, trazendo
 ## 🐍 Atividade no GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/honoriio/honoriio/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/honoriio/honoriio/output/github-contribution-grid-snake-dark.svg">
 </p>
