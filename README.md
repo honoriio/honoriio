@@ -30,7 +30,7 @@ Versão em desenvolvimento do Walleto voltada para API REST.
 - Validação de dados e tratamento de erros
 - Preparado para integração com front-end
 
-🔗 https://github.com/honoriio/walleto_api_1.0
+🔗 [https://github.com/honoriio/walleto_api_1.0](https://github.com/honoriio/walleto-api-1.0)
 
 ---
 
